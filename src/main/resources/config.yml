@@ -1,0 +1,7 @@
+# Dynrange config
+
+range-properties:
+  x: 24
+  y: 256
+  z: 24
+  interval: 160

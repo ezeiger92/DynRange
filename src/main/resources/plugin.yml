@@ -1,0 +1,14 @@
+name: DynRange
+main: com.chromaclypse.dynrange.Dynrange
+version: ${project.version}
+description: Ranged dynmap players
+author: ezeiger92
+commands:
+  dynrange:
+    aliases: []
+    description: Root DynRange command
+    usage: /dynrange [reload]
+permissions:
+  dynrange.reload:
+    description: Allows reloading of DynRange config
+    default: op
